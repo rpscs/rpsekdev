@@ -1,8 +1,8 @@
 
 
-Minha jornada na tecnologia começou pela curiosidade de entender o que acontecia "por baixo do capô". Por volta dos meus 12 anos, em vez de apenas jogar, eu abria os arquivos internos dos jogos para decifrar sua lógica. Modificar arquivos XML e analisar o comportamento dos sistemas foi o meu primeiro contato com engenharia reversa e manipulação de dados — ali percebi o poder das linhas de código.
+Minha jornada na tecnologia começou pela curiosidade de entender o que acontecia "por baixo do capô". Por volta dos meus 12 anos, em vez de apenas jogar, eu abria os arquivos internos dos jogos para tentar decifrar sua lógica.
 
-Essa mesma obsessão por entender como as coisas funcionam, como se quebram e como podem ser defendidas me trouxe para o universo da **Cibersegurança**.
+Essa mesma curiosidade por entender como as coisas funcionam, como se quebram e como podem ser defendidas me trouxe para o universo da **Cibersegurança**.
 Hoje, vejo que aquela curiosidade infantil evoluiu para uma mentalidade analítica e defensiva.
 
 **O que estou construindo:**
